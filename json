@@ -1,27 +1,34 @@
 {
-  "name": ".idontgiveaf’s repo",
-  "subtitle": "by .idontgiveaf",
-  "description": "adding my apps",
-  "iconURL": "data:image/jpeg;base64,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",
-  "headerURL": "https://raw.githubusercontent.com/poopoodoodoowhowho/.idontgiveafs-repo/main/json",
-  "website": "https://raw.githubusercontent.com/poopoodoodoowhowho/.idontgiveafs-repo/main/json",
-  "tintColor": "#EE4B2B",
-  "featuredApps": [],
-  "apps": [
-    {
-      "name": "Arceus X",
-      "bundleIdentifier": "com.spdm.ArceusX",
-      "iconURL": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw",
-      "tintColor": "#EE4B2B",
-      "versions": [
+    "name": "idontgiveaf's repo",
+    "subtitle": "A repo msde by .idontgivesf",
+    "description": "adding my apps here",
+    "iconURL": "",
+    "headerURL": "",
+    "website": "https://raw.githubusercontent.com/poopoodoodoowhowho/.idontgiveafs-repo/main/json",
+    "tintColor": "#FFFFFF",
+    "featuredApps": [],
+    "apps": [
         {
-          "version": "2.605.660",
-          "downloadURL": "https://github.com/poopoodoodoowhowho/.idontgiveafs-repo/releases/download/IPA/ArceusX2.ipa",
-          "size": "145.8"
-        },
-      ],
-      "appPermissions": {}
-    }
-  ],
-  "news": []
-}
+            "name": "Arceus X",
+            "bundleIdentifier": "com.spdm.ArceusX",
+            "developerName": "SPDM Team",
+            "subtitle": "Roblox Executor",
+            "localizedDescription": "An ios roblox executor.",
+            "iconURL": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw",
+            "tintColor": "#FFFFFF",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.605.660",
+                  "date": "12/23/2024",
+                  "localizedDescription": "Roblox Executor",
+                  "downloadURL": "https://github.com/poopoodoodoowhowho/.idontgiveafs-repo/releases/download/IPA/ArceusX2.ipa",
+                  "size": 14300000,
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }

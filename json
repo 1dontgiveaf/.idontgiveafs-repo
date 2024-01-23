@@ -1,24 +1,24 @@
 {
-  "name": ".idontgiveaf’s ipa repo.",
-  "subtitle": "Has so much stuff!",
-  "description": "gon do something",
+  "name": ".idontgiveaf’s repo",
+  "subtitle": "by .idontgiveaf",
+  "description": "adding my apps",
   "iconURL": "",
   "headerURL": "",
-  "website": "https://github.com/poopoodoodoowhowho/.idontgiveafs-repo/raw/main/json",
+  "website": "https://raw.githubusercontent.com/poopoodoodoowhowho/.idontgiveafs-repo/main/json",
   "tintColor": "",
   "featuredApps": [],
   "apps": [
     {
       "name": "Arceus X",
       "bundleIdentifier": "com.spdm.ArceusX",
-      "iconURL": "https://raw.githubusercontent.com/SPDM-Team/Arceus-X-NEO-public/main/Images/Logo%20NEO.png",
+      "iconURL": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw",
       "tintColor": "",
       "versions": [
         {
           "version": "2.605.660",
-          "downloadURL": "https://download2433.mediafire.com/m51m3y7g6kxg0zsE6OqZJFH3Vyi17fjmVijCVc67PSuiegPY9sac0otcRLjZYNcJGBpoRKrp--1sUMSdL-iKKiDkzwu5_Tv50RWO6xTZ7Cq6ySh16wgOZuUmsdp3tg5vb5v1AZeju19VXBx5UtZhhlkXs2R6ZTWSvGEIDcooSF5rDt8/9189zopoolbfnly/ArceusX2.ipa",
-          "size": "143.8 MB"
-        },
+          "downloadURL": "https://github.com/poopoodoodoowhowho/.idontgiveafs-repo/releases/download/IPA/ArceusX2.ipa",
+          "size": "145.8 mb"
+        }
       ],
       "appPermissions": {}
     }
